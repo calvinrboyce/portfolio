@@ -1,5 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
+
+
 class MovieGraph:
     """Class for solving the Kevin Bacon problem with movie data from IMDb."""
 
